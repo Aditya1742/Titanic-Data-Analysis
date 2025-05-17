@@ -6,13 +6,9 @@ This project explores the famous Titanic dataset from Kaggle, applying data anal
 Table of Contents
 
 1. Overview
-
 2. Technologies Used
-
-3. Project Structure
-
+3.  Project Structure
 4. How to Run
-
 5. Results
 
 
