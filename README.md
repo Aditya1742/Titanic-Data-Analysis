@@ -3,36 +3,36 @@ Titanic Data Analysis and Survival Prediction
 
 This project explores the famous Titanic dataset from Kaggle, applying data analysis, visualization, and machine learning techniques to predict passenger survival.
 
-1. Table of Contents
+Table of Contents
 
-. Overview
+1. Overview
 
-. Technologies Used
+2. Technologies Used
 
-. Project Structure
+3. Project Structure
 
-. How to Run
+4. How to Run
 
-. Results
+5. Results
 
 
-2. Overview
+Overview
 
 The goal is to understand the characteristics that influenced passenger survival on the Titanic and to build a predictive model. The project includes:
 
-. Data cleaning and preprocessing
-. Exploratory Data Analysis (EDA)
-. Feature engineering
-. Model building and evaluation (Logistic Regression, Random Forest, etc.)
-. Accuracy score and confusion matrix
+1. Data cleaning and preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature engineering
+4. Model building and evaluation (Logistic Regression, Random Forest, etc.)
+5. Accuracy score and confusion matrix
 
 
-3. Technologies Used
+Technologies Used
 
-. Python 3
-. Jupyter Notebook
-. Pandas
-. NumPy
-. Matplotlib
-. Seaborn
-. Scikit-learn
+1. Python 3
+2. Jupyter Notebook
+3. Pandas
+4. NumPy
+5. Matplotlib
+6. Seaborn
+7. Scikit-learn
